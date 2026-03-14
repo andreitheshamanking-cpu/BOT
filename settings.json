@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SCHOOLSMP-Vmh8.aternos.me",
+    "ip": "madtom.aternos.host:21575",
     "port": 21575,
     "version": "",
     "try-creative": false
