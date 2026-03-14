@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "RedTheWed",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "SCHOOLSMP-Vmh8.aternos.me",
+    "port": 21575,
     "version": "",
     "try-creative": false
   },
